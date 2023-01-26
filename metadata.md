@@ -5,8 +5,8 @@ solution: Advertising Cloud
 feature-set: Advertising Cloud
 product: advertising cloud
 git-repo: https://github.com/AdobeDocs/advertising-learn.zh-Hant
-hide: true
-source-git-commit: c299b88f75a62194bd22b2d220ab525045f78ea7
+index: true
+source-git-commit: 73e3fab9868c5de9fac80f03495c3973ad2dac94
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 0%
