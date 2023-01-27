@@ -2,11 +2,11 @@
 type: Tutorial
 cloud: Experience Cloud
 solution: Advertising, Advertising Cloud
-feature-set: Advertising Cloud
+feature-set: Advertising
 product: advertising cloud
 git-repo: https://github.com/AdobeDocs/advertising-learn.zh-Hant
 index: true
-source-git-commit: 051df210db35979bbdcc0df09d2d33e97a20d3b3
+source-git-commit: 7e95789aec0afd4de553dbf684d8ab2c70b29f56
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 0%
