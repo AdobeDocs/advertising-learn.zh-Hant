@@ -5,8 +5,8 @@ source-wordcount: '22'
 ht-degree: 0%
 
 ---
-# Adobe廣DSP告Tutorials
+# AdobeAdvertising DSPTutorials
 
-這是有關視頻頁面的資料夾DSP。
+這是有關DSP的視訊頁面的資料夾。
 
-**注：此頁未發佈在面向客戶的文檔中。**
+**注意：此頁面不會發佈在對客戶的檔案中。**
