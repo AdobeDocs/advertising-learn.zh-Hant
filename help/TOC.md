@@ -2,8 +2,9 @@
 user-guide-title: Adobe Advertising 教學課程
 user-guide-description: Adobe Advertising 的影片和教學課程系列。
 breadcrumb-title: Advertising 教學課程
-solution: Advertising
-source-git-commit: 2dc8823f7daba768f758491d60799340a6ff4c7c
+role: User
+level: Beginner, Intermediate
+source-git-commit: ba393ccd33a5e05f2e557f1161c29fab4a03ef35
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 16%
@@ -23,7 +24,7 @@ ht-degree: 16%
    + [如何大量上傳協力廠商廣告標籤](/help/dsp/bulk-upload-third-party-ad-tags.md)
 + [!DNL Analytics for Adobe Advertising] {#analytics}
    + [簡介 [!DNL Analytics for Advertising]](/help/integrations/analytics/intro-a4adc.md)
-   + [建立Adobe廣告網站專案報表](/help/integrations/analytics/analytics-site-entry-a4adc.md)
+   + [建立Adobe Advertising網站專案報表](/help/integrations/analytics/analytics-site-entry-a4adc.md)
    + [建立 [!DNL Analytics] 啟用和報表的區段](/help/integrations/analytics/analytics-segments-a4adc.md)
    + [簡介 [!DNL Analysis Workspace] 適用於報表Adobe廣告資料](/help/integrations/analytics/analytics-analysis-workspace-a4adc.md)
    + [使用 [!DNL Marketing Channels] 適用於Adobe廣告報表](/help/integrations/analytics/analytics-reporting-a4adc.md)
