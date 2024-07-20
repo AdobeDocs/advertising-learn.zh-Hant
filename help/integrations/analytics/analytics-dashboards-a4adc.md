@@ -1,6 +1,6 @@
 ---
 title: 使用Adobe Analytics建立Adobe Advertising儀表板
-description: 瞭解建立Adobe廣告控制面板以即時監控行銷活動的技巧
+description: 瞭解建立Adobe Advertising控制面板以即時監控行銷活動的技巧
 level: Intermediate, Experienced
 topic: Integrations
 feature: Integration with Adobe Analytics
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 # 使用Adobe Analytics建立Adobe Advertising儀表板
 
-*廣告商使用[!DNL Adobe Analytics for Adobe Advertising]*
+*廣告商與[!DNL Adobe Analytics for Adobe Advertising]*
 
-瞭解建立Adobe廣告控制面板以即時監控行銷活動的技巧。
+瞭解建立Adobe Advertising控制面板以即時監控行銷活動的技巧。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33922)

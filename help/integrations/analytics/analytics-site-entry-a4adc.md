@@ -1,6 +1,6 @@
 ---
-title: 建立Adobe廣告網站專案報表
-description: 瞭解如何建立Adobe Advertising網站專案報告，以監控星期幾、一天中的時間、瀏覽器和地理影響。
+title: 建立Adobe Advertising網站專案報表
+description: 瞭解如何建立Adobe Advertising網站專案報告，以監控一週中的某天、一天中的某一時間、瀏覽器和地理影響。
 level: Intermediate, Experienced
 topic: Integrations
 feature: Integration with Adobe Analytics
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 # 建立Adobe Advertising網站專案報表
 
-*廣告商使用[!DNL Adobe Analytics for Adobe Advertising]*
+*廣告商與[!DNL Adobe Analytics for Adobe Advertising]*
 
-瞭解如何建立Adobe廣告網站專案報告，以監控一週中的某天、一天中的哪個時間、瀏覽器和地理影響。
+瞭解如何建立Adobe Advertising網站專案報告，以監控一週中的某天、一天中的某一時間、瀏覽器和地理影響。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33921)

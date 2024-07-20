@@ -1,5 +1,5 @@
 ---
-title: DSP帳戶結構與使用者介面
+title: DSP帳戶結構和使用者介面
 description: 瞭解DSP帳戶結構和使用者介面。
 feature: DSP Campaign Data Views, DSP Audiences, DSP On Demand Inventory, DSP Private Inventory, DSP Deal IDs, DSP Custom Reports
 exl-id: c7786a04-a0ab-4ae6-8d5c-da68713f18d9

@@ -1,6 +1,6 @@
 ---
 title: 使用Adobe Advertising行銷管道製作報表
-description: 瞭解Adobe Advertising檢視和點閱專案資料如何與Adobe Analytics搭配運作 [!DNL Marketing Channels].
+description: 瞭解Adobe Advertising檢視和點閱專案資料如何與Adobe Analytics [!DNL Marketing Channels]搭配使用。
 level: Intermediate, Experienced
 topic: Integrations
 feature: Integration with Adobe Analytics
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 # 使用Adobe Advertising行銷管道製作報表
 
-*廣告商使用[!DNL Adobe Analytics for Adobe Advertising]*
+*廣告商與[!DNL Adobe Analytics for Adobe Advertising]*
 
-瞭解Adobe廣告檢視和點進登入資料如何與Adobe Analytics搭配運作 [!DNL Marketing Channels].
+瞭解Adobe Advertising檢視和點閱專案資料如何與Adobe Analytics [!DNL Marketing Channels]搭配使用。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33502)

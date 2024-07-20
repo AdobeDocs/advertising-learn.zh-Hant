@@ -1,6 +1,6 @@
 ---
-title: 建立 [!DNL Analytics] 包含Adobe廣告資料的自訂量度
-description: 瞭解在Adobe Analytics中使用Adobe廣告資料時可建立的實用自訂量度。
+title: 使用Adobe Advertising資料建立 [!DNL Analytics] 自訂量度
+description: 瞭解在Adobe Analytics中使用Adobe Advertising資料時可建立的實用自訂量度。
 level: Intermediate, Experienced
 topic: Integrations
 feature: Integration with Adobe Analytics
@@ -12,10 +12,10 @@ ht-degree: 0%
 
 ---
 
-# 建立 [!DNL Analytics] 包含Adobe廣告資料的自訂量度
+# 使用Adobe Advertising資料建立[!DNL Analytics]個自訂量度
 
-*廣告商使用[!DNL Adobe Analytics for Adobe Advertising]*
+*廣告商與[!DNL Adobe Analytics for Adobe Advertising]*
 
-瞭解在Adobe Analytics中使用Adobe廣告資料時可建立的實用自訂量度。
+瞭解在Adobe Analytics中使用Adobe Advertising資料時可建立的實用自訂量度。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33919)

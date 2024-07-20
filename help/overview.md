@@ -14,7 +14,7 @@ ht-degree: 25%
 
 # Adobe Advertising 教學課程
 
-這些教學課程影片，以及 [Adobe Advertising檔案](https://experienceleague.adobe.com/docs/advertising-cloud.html)，可協助您以前所未有的速度利用Adobe Advertising來獲得客戶分析和見解。
+這些影片教學課程以及[Adobe Advertising檔案](https://experienceleague.adobe.com/docs/advertising-cloud.html)，將協助您以前所未有的速度使用Adobe Advertising來獲得客戶分析和見解。
 
 視訊可用於：
 

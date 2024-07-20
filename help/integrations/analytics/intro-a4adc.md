@@ -1,6 +1,6 @@
 ---
-title: 簡介 [!DNL Adobe Analytics for Adobe Advertising]
-description: 瞭解Adobe Advertising與Adobe Analytics整合的好處，包括整合解決的客戶問題。
+title: ' [!DNL Adobe Analytics for Adobe Advertising]簡介'
+description: 瞭解Adobe Advertising與Adobe Analytics之間整合的好處，包括其解決的客戶問題。
 level: Beginner
 topic: Integrations
 feature: Integration with Adobe Analytics
@@ -12,8 +12,8 @@ ht-degree: 0%
 
 ---
 
-# 簡介 [!DNL Adobe Analytics for Adobe Advertising]
+# [!DNL Adobe Analytics for Adobe Advertising]簡介
 
-瞭解Adobe Advertising與Adobe Analytics整合的好處，包括整合解決的客戶問題。
+瞭解Adobe Advertising與Adobe Analytics之間整合的好處，包括其解決的客戶問題。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33491)
