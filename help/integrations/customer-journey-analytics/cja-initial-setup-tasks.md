@@ -29,7 +29,7 @@ ht-degree: 0%
 
 ## 使用要匯出的量度在Analysis Workspace中建立資料檢視
 
->[!VIDEO](https://video.tv.adobe.com/v/3476733?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476767?captions=chi_hant&learn=on)
 
 >[!MORELIKETHIS]
 >
