@@ -35,7 +35,7 @@ ht-degree: 1%
 
 >[!MORELIKETHIS]
 >
->* [Adobe Advertising與Customer Journey Analytics整合概述](https://experienceleague.adobe.com/en/docs/advertising/integrations/customer-journey-analytics/overview)
+>* [Adobe Advertising與Customer Journey Analytics整合概述](https://experienceleague.adobe.com/zh-hant/docs/advertising/integrations/customer-journey-analytics/overview)
 
 ## 在Customer Journey Analytics中檢視Adobe Advertising行銷活動資料的步驟
 
@@ -57,4 +57,4 @@ ht-degree: 1%
 
 >[!MORELIKETHIS]
 >
->* [書面檔案](https://experienceleague.adobe.com/en/docs/advertising/integrations/customer-journey-analytics/overview)。
+>* [書面檔案](https://experienceleague.adobe.com/zh-hant/docs/advertising/integrations/customer-journey-analytics/overview)。
