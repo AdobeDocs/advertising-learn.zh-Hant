@@ -24,7 +24,7 @@ ht-degree: 15%
    + [如何使用大量編輯工具編輯版位](/help/dsp/bulk-edit-placement-tools.md)
    + [如何大量上傳協力廠商廣告標籤](/help/dsp/bulk-upload-third-party-ad-tags.md)
 + [!DNL Analytics for Adobe Advertising] {#analytics}
-   + [ [!DNL Analytics for Advertising]簡介](/help/integrations/analytics/intro-a4adc.md)
+   + [&#x200B; [!DNL Analytics for Advertising]簡介](/help/integrations/analytics/intro-a4adc.md)
    + [建立Adobe Advertising網站專案報表](/help/integrations/analytics/analytics-site-entry-a4adc.md)
    + [建立 [!DNL Analytics] 區段以供啟動和報告](/help/integrations/analytics/analytics-segments-a4adc.md)
    + [報告Adobe Advertising資料的 [!DNL Analysis Workspace] 簡介](/help/integrations/analytics/analytics-analysis-workspace-a4adc.md)
@@ -33,7 +33,7 @@ ht-degree: 15%
    + [使用Adobe Analytics在發起行銷活動前建立分析作業](/help/integrations/analytics/analytics-pre-launch-a4adc.md)
    + [使用Adobe Analytics建立Adobe Advertising控制面板](/help/integrations/analytics/analytics-dashboards-a4adc.md)
    + [使用Adobe Advertising資料建立 [!DNL Analytics] 自訂量度](/help/integrations/analytics/analytics-custom-metrics-a4adc.md)
-+ [！DNL Customer Journey Analytics](/help/integrations/customer-journey-analytics/cja-initial-setup-tasks.md)
++ [[!DNL Customer Journey Analytics]](/help/integrations/customer-journey-analytics/cja-initial-setup-tasks.md)
 
 <!-- Add to DSP chapter once the videos are complete:
   + [How to Create a Placement](/help/dsp/placement-create.md)
