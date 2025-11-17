@@ -17,7 +17,7 @@ ht-degree: 0%
 
 瞭解將Customer Journey Analytics轉換事件傳送至Adobe Advertising所需的初始步驟，以便您稍後將其納入最佳化目標/目的。
 
-完成這些步驟並將資料檢視提供給您的Adobe客戶團隊後，您就可以完成其他步驟以設定整合。 如需其他步驟的詳細資訊，請閱讀[完整檔案](https://experienceleague.adobe.com/en/docs/advertising/integrations/customer-journey-analytics/overview)。
+完成這些步驟並將資料檢視提供給您的Adobe客戶團隊後，您就可以完成其他步驟以設定整合。 如需其他步驟的詳細資訊，請閱讀[完整檔案](https://experienceleague.adobe.com/zh-hant/docs/advertising/integrations/customer-journey-analytics/overview)。
 
 ## 概觀
 
@@ -33,4 +33,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [Adobe Advertising與Customer Journey Analytics整合概述](https://experienceleague.adobe.com/en/docs/advertising/integrations/customer-journey-analytics/overview)
+>* [Adobe Advertising與Customer Journey Analytics整合概述](https://experienceleague.adobe.com/zh-hant/docs/advertising/integrations/customer-journey-analytics/overview)
