@@ -6,20 +6,20 @@ topic: Integrations
 feature: Integration with Adobe Customer Journey Analytics
 hide: true
 hidefromtoc: true
-source-git-commit: 387ce23256fd76e8835a33ead30be6e1d75799cd
+source-git-commit: 7f71e18cb639642e6c6b7c8a97c612855e3efdef
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '191'
 ht-degree: 1%
 
 ---
 
 # 在Customer Journey Analytics和Adobe Advertising之間交換資料的設定工作
 
-## Customer Journey Analytics轉換事件到Adobe Advertising的初始設定任務
+## 將Customer Journey Analytics轉換事件傳送至Adobe Advertising的初始設定工作
 
 瞭解將Customer Journey Analytics轉換事件傳送至Adobe Advertising所需的初始步驟，以便您稍後將其納入最佳化目標/目的。
 
-完成這些步驟並將資料檢視提供給您的Adobe客戶團隊後，您就可以完成其他步驟以設定整合。 如需其他步驟的詳細資訊，請閱讀[完整檔案](https://experienceleague.adobe.com/zh-hant/docs/advertising/integrations/customer-journey-analytics/overview)。
+完成這些步驟並將資料檢視提供給您的Adobe客戶團隊後，您就可以完成其他步驟以設定整合。 如需其他步驟的詳細資訊，請閱讀[完整檔案](https://experienceleague.adobe.com/en/docs/advertising/integrations/customer-journey-analytics/overview)。
 
 ### 概觀
 
@@ -35,7 +35,7 @@ ht-degree: 1%
 
 >[!MORELIKETHIS]
 >
->* [Adobe Advertising與Customer Journey Analytics整合概述](https://experienceleague.adobe.com/zh-hant/docs/advertising/integrations/customer-journey-analytics/overview)
+>* [Adobe Advertising與Customer Journey Analytics整合概述](https://experienceleague.adobe.com/en/docs/advertising/integrations/customer-journey-analytics/overview)
 
 ## 在Customer Journey Analytics中檢視Adobe Advertising行銷活動資料的初始設定工作
 
