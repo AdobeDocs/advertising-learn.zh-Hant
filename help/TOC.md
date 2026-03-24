@@ -5,9 +5,9 @@ breadcrumb-title: Advertising 教學課程
 role: User
 level: Beginner, Intermediate
 auto-video-transcripts: true
-source-git-commit: 387ce23256fd76e8835a33ead30be6e1d75799cd
+source-git-commit: 202fc9fe52e03eab7931582f06a1847e8beb1d19
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '111'
 ht-degree: 18%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 18%
    + [如何使用大量編輯工具編輯版位](/help/dsp/bulk-edit-placement-tools.md)
    + [如何大量上傳協力廠商廣告標籤](/help/dsp/bulk-upload-third-party-ad-tags.md)
 + [!DNL Analytics for Adobe Advertising] {#analytics}
-   + [&#x200B; [!DNL Analytics for Advertising]簡介](/help/integrations/analytics/intro-a4adc.md)
+   + [ [!DNL Analytics for Advertising]簡介](/help/integrations/analytics/intro-a4adc.md)
    + [建立Adobe Advertising網站專案報表](/help/integrations/analytics/analytics-site-entry-a4adc.md)
    + [建立 [!DNL Analytics] 區段以供啟動和報告](/help/integrations/analytics/analytics-segments-a4adc.md)
    + [報告Adobe Advertising資料的 [!DNL Analysis Workspace] 簡介](/help/integrations/analytics/analytics-analysis-workspace-a4adc.md)
@@ -35,7 +35,8 @@ ht-degree: 18%
    + [使用Adobe Advertising資料建立 [!DNL Analytics] 自訂量度](/help/integrations/analytics/analytics-custom-metrics-a4adc.md)
 + [Customer Journey Analytics](/help/integrations/customer-journey-analytics/cja-setup-tasks.md)
 
-<!-- Add to DSP chapter once the videos are complete:
+<!-- 
+Add to DSP chapter once the videos are complete:
   + [How to Create a Placement](/help/dsp/placement-create.md)
   + [Placement Targeting Capabilities](/help/dsp/placement-targeting.md)
   + [Audience Libraries and Applying Behavioral Targeting](/help/dsp/audience-libraries.md)

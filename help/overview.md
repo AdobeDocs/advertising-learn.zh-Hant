@@ -5,16 +5,16 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: aa9d9ff5-115f-44c6-b23d-3fc034904697
-source-git-commit: 1d3afe486c0b6227f95d2193152e7be310626d22
+source-git-commit: 202fc9fe52e03eab7931582f06a1847e8beb1d19
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 25%
+source-wordcount: '64'
+ht-degree: 23%
 
 ---
 
 # Adobe Advertising 教學課程
 
-這些影片教學課程以及[Adobe Advertising檔案](https://experienceleague.adobe.com/zh-hant/docs/advertising)，將協助您以前所未有的速度使用Adobe Advertising來獲得客戶分析和見解。
+這些影片教學課程以及[Adobe Advertising檔案](https://experienceleague.adobe.com/en/docs/advertising)，將協助您以前所未有的速度使用Adobe Advertising來獲得客戶分析和見解。
 
 視訊可用於：
 
