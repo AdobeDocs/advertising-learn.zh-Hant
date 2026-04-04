@@ -5,11 +5,11 @@ level: Beginner, Intermediate, Experienced
 topic: Integrations
 feature: Integration with Adobe Customer Journey Analytics
 hide: true
-hidefromtoc: true
-source-git-commit: 0673141e34adf4634c4af068375137573b7f2598
+exl-id: 1d9ef24f-02bf-4260-9d16-24580cd1c7a3
+source-git-commit: b20cca5dc10b28e73348cdfac178555a951a0203
 workflow-type: tm+mt
-source-wordcount: '190'
-ht-degree: 1%
+source-wordcount: '208'
+ht-degree: 0%
 
 ---
 
