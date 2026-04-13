@@ -6,7 +6,7 @@ topic: Integrations
 feature: Integration with Adobe Customer Journey Analytics
 hide: true
 exl-id: 1d9ef24f-02bf-4260-9d16-24580cd1c7a3
-source-git-commit: b20cca5dc10b28e73348cdfac178555a951a0203
+source-git-commit: dce2767431ff07c573661fada5a5e4edeb95ea82
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 ### 概觀
 
->[!VIDEO](https://video.tv.adobe.com/v/3476834?captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3476810)
 
 ### 步驟1：在Customer Journey Analytics中設定位置帳戶
 
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [Adobe Advertising與Customer Journey Analytics整合概述](https://experienceleague.adobe.com/zh-hant/docs/advertising/integrations/customer-journey-analytics/overview)
+>* [Adobe Advertising與Customer Journey Analytics整合概述](https://experienceleague.adobe.com/en/docs/advertising/integrations/customer-journey-analytics/overview)
 
 ## 在Customer Journey Analytics中檢視Adobe Advertising行銷活動資料的步驟
 
@@ -53,8 +53,8 @@ ht-degree: 0%
 
 ### 步驟3：設定Adobe Advertising維度的持續性設定和衍生欄位
 
->[!VIDEO](https://video.tv.adobe.com/v/3476943?captions=chi_hant&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476897?learn=on)
 
 >[!MORELIKETHIS]
 >
->* [書面檔案](https://experienceleague.adobe.com/zh-hant/docs/advertising/integrations/customer-journey-analytics/overview)。
+>* [書面檔案](https://experienceleague.adobe.com/en/docs/advertising/integrations/customer-journey-analytics/overview)。
