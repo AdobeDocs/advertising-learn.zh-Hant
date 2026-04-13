@@ -6,7 +6,7 @@ topic: Integrations
 feature: Integration with Adobe Customer Journey Analytics
 hide: true
 exl-id: 1d9ef24f-02bf-4260-9d16-24580cd1c7a3
-source-git-commit: b20cca5dc10b28e73348cdfac178555a951a0203
+source-git-commit: dce2767431ff07c573661fada5a5e4edeb95ea82
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
