@@ -8,7 +8,7 @@ feature-set: Advertising
 landing-page-name: advertising
 landing-page-breadcrumb-title: Advertising
 product: advertising cloud
-git-repo: https://github.com/AdobeDocs/advertising-learn.en
+git-repo: https://github.com/AdobeDocs/advertising-learn.zh-Hant
 index: true
 source-git-commit: 11685f611b6de5490b177a302c00d781932141a3
 workflow-type: tm+mt
