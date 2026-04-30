@@ -2,15 +2,17 @@
 type: Tutorial
 cloud: Experience Cloud
 solution: Advertising
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
 feature-set: Advertising
 landing-page-name: advertising
 landing-page-breadcrumb-title: Advertising
 product: advertising cloud
 git-repo: https://github.com/AdobeDocs/advertising-learn.zh-Hant
 index: true
-source-git-commit: 202fc9fe52e03eab7931582f06a1847e8beb1d19
+source-git-commit: 11685f611b6de5490b177a302c00d781932141a3
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: 69
 ht-degree: 0%
 
 ---
