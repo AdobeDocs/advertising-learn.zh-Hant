@@ -5,9 +5,9 @@ breadcrumb-title: Advertising 教學課程
 role: User
 level: Beginner, Intermediate
 auto-video-transcripts: true
-source-git-commit: b20cca5dc10b28e73348cdfac178555a951a0203
+source-git-commit: 796ab0255b9fa1db4a3bf0e19eb9642224788542
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '108'
 ht-degree: 16%
 
 ---
@@ -33,7 +33,6 @@ ht-degree: 16%
    + [使用Adobe Analytics在發起行銷活動前建立分析作業](/help/integrations/analytics/analytics-pre-launch-a4adc.md)
    + [使用Adobe Analytics建立Adobe Advertising控制面板](/help/integrations/analytics/analytics-dashboards-a4adc.md)
    + [使用Adobe Advertising資料建立 [!DNL Analytics] 自訂量度](/help/integrations/analytics/analytics-custom-metrics-a4adc.md)
-+ {hide-from-toc}[Customer Journey Analytics](/help/integrations/customer-journey-analytics/cja-setup-tasks.md)
 
 <!-- 
 Add to DSP chapter once the videos are complete:

@@ -10,7 +10,7 @@ landing-page-breadcrumb-title: Advertising
 product: advertising cloud
 git-repo: https://github.com/AdobeDocs/advertising-learn.zh-Hant
 index: true
-source-git-commit: 11685f611b6de5490b177a302c00d781932141a3
+source-git-commit: 03acecea795ae3e202534d422f075878e0ad7651
 workflow-type: tm+mt
 source-wordcount: 69
 ht-degree: 0%
