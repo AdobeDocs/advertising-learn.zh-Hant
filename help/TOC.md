@@ -5,15 +5,15 @@ breadcrumb-title: Advertising 教學課程
 role: User
 level: Beginner, Intermediate
 auto-video-transcripts: true
-source-git-commit: 796ab0255b9fa1db4a3bf0e19eb9642224788542
+source-git-commit: 5f04bcf2370017d8c9674e780a4fc5a35e6dddbe
 workflow-type: tm+mt
 source-wordcount: '108'
-ht-degree: 16%
+ht-degree: 13%
 
 ---
 
 
-# Adobe Advertising 教學課程 {#tutorials}
+# Adobe Advertising教學課程 {#tutorials}
 
 + [概觀](overview.md)
 + DSP {#dsp}
@@ -24,7 +24,7 @@ ht-degree: 16%
    + [如何使用大量編輯工具編輯版位](/help/dsp/bulk-edit-placement-tools.md)
    + [如何大量上傳協力廠商廣告標籤](/help/dsp/bulk-upload-third-party-ad-tags.md)
 + [!DNL Analytics for Adobe Advertising] {#analytics}
-   + [&#x200B; [!DNL Analytics for Advertising]簡介](/help/integrations/analytics/intro-a4adc.md)
+   + [ [!DNL Analytics for Advertising]簡介](/help/integrations/analytics/intro-a4adc.md)
    + [建立Adobe Advertising網站專案報表](/help/integrations/analytics/analytics-site-entry-a4adc.md)
    + [建立 [!DNL Analytics] 區段以供啟動和報告](/help/integrations/analytics/analytics-segments-a4adc.md)
    + [報告Adobe Advertising資料的 [!DNL Analysis Workspace] 簡介](/help/integrations/analytics/analytics-analysis-workspace-a4adc.md)
