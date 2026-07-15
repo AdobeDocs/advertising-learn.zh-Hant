@@ -6,10 +6,14 @@ topic: Integrations
 feature: Integration with Adobe Analytics
 exl-id: 3e8b735d-62a3-4f03-b259-f3278cde8afb
 TQID: https://experienceleague.adobe.com/q1tSez5wsBca1m9xGElx9wEAuBXtXsCmBH-00SLJhc0
-product_v2: id: a829a185-511f-4bf8-8dcf-9e684f8011cf
-feature_v2: id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2:
+  - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+feature_v2:
+  - id: ee30758d-9ffe-4cd7-8f26-0d4394f041f6
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 source-git-commit: a4ffec7b7fe50a765e0c52b9a0e65db257abf9f9
 workflow-type: tm+mt
 source-wordcount: 40
