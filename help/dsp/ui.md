@@ -22,15 +22,15 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: 47f5a750dcff110344414bcae6c914d02ce71730
+source-git-commit: a4ffec7b7fe50a765e0c52b9a0e65db257abf9f9
 workflow-type: tm+mt
-source-wordcount: 48
+source-wordcount: 53
 ht-degree: 0%
 
 ---
 
 # 帳戶結構和使用者介面
 
-瞭解您的DSP廣告帳戶如何建構、如何使用行銷活動管理檢視，以及對象管理、詳細目錄、報告、設定和資源功能的說明。
+瞭解您的DSP廣告帳戶如何建構、如何使用行銷活動管理檢視，以及有關對象管理、詳細目錄管理、報告、管理設定和費用以及追蹤資源功能的資訊。
 
 >[!VIDEO](https://video.tv.adobe.com/v/339206)

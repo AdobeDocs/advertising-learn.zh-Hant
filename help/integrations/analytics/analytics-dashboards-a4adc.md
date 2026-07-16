@@ -1,5 +1,5 @@
 ---
-title: 使用Adobe Analytics建立Adobe Advertising控制面板
+title: 使用Adobe Analytics建立Adobe Advertising儀表板
 description: 瞭解建立Adobe Advertising控制面板以即時監控行銷活動的技巧
 level: Intermediate, Experienced
 topic: Integrations
@@ -12,14 +12,14 @@ role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-source-git-commit: 47f5a750dcff110344414bcae6c914d02ce71730
+source-git-commit: 5f04bcf2370017d8c9674e780a4fc5a35e6dddbe
 workflow-type: tm+mt
 source-wordcount: 40
 ht-degree: 0%
 
 ---
 
-# 使用Adobe Analytics建立Adobe Advertising控制面板
+# 使用Adobe Analytics建立Adobe Advertising儀表板
 
 *廣告商與[!DNL Adobe Analytics for Adobe Advertising]*
 

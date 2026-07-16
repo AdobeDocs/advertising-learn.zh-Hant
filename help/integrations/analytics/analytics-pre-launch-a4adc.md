@@ -1,5 +1,5 @@
 ---
-title: 使用Adobe Analytics在發起行銷活動前建立分析作業
+title: 使用Adobe Analytics建立啟動前的行銷活動分析
 description: 瞭解如何使用Adobe Analytics為啟動Adobe Advertising付費媒體行銷活動奠定基礎。
 level: Intermediate, Experienced
 topic: Integrations
@@ -14,17 +14,17 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
-source-git-commit: 47f5a750dcff110344414bcae6c914d02ce71730
+source-git-commit: a4ffec7b7fe50a765e0c52b9a0e65db257abf9f9
 workflow-type: tm+mt
-source-wordcount: 56
+source-wordcount: 54
 ht-degree: 0%
 
 ---
 
-# 使用Adobe Analytics在發起行銷活動前建立分析作業
+# 使用Adobe Analytics建立啟動前的行銷活動分析
 
 *廣告商與[!DNL Adobe Analytics for Adobe Advertising]*
 
-瞭解如何使用Adobe Analytics為啟動Adobe Advertising付費媒體行銷活動奠定基礎。
+瞭解如何使用Adobe Analytics為啟動Adobe Advertising付費媒體行銷活動做好準備。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33501)

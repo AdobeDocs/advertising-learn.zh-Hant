@@ -5,15 +5,15 @@ breadcrumb-title: Advertising 教學課程
 role: User
 level: Beginner, Intermediate
 auto-video-transcripts: true
-source-git-commit: 796ab0255b9fa1db4a3bf0e19eb9642224788542
+source-git-commit: a4ffec7b7fe50a765e0c52b9a0e65db257abf9f9
 workflow-type: tm+mt
 source-wordcount: '108'
-ht-degree: 16%
+ht-degree: 13%
 
 ---
 
 
-# Adobe Advertising 教學課程 {#tutorials}
+# Adobe Advertising教學課程 {#tutorials}
 
 + [概觀](overview.md)
 + DSP {#dsp}
@@ -21,24 +21,24 @@ ht-degree: 16%
    + [帳戶結構和使用者介面](/help/dsp/ui.md)
    + [如何建立套件](/help/dsp/package-create.md)
    + [如何建立標準顯示位置](/help/dsp/placement-create.md)
-   + [如何使用大量編輯工具編輯版位](/help/dsp/bulk-edit-placement-tools.md)
-   + [如何大量上傳協力廠商廣告標籤](/help/dsp/bulk-upload-third-party-ad-tags.md)
+   + [如何使用批次編輯工具編輯版位](/help/dsp/bulk-edit-placement-tools.md)
+   + [如何批次上傳協力廠商廣告標籤](/help/dsp/bulk-upload-third-party-ad-tags.md)
 + [!DNL Analytics for Adobe Advertising] {#analytics}
    + [&#x200B; [!DNL Analytics for Advertising]簡介](/help/integrations/analytics/intro-a4adc.md)
    + [建立Adobe Advertising網站專案報表](/help/integrations/analytics/analytics-site-entry-a4adc.md)
    + [建立 [!DNL Analytics] 區段以供啟動和報告](/help/integrations/analytics/analytics-segments-a4adc.md)
    + [報告Adobe Advertising資料的 [!DNL Analysis Workspace] 簡介](/help/integrations/analytics/analytics-analysis-workspace-a4adc.md)
    + [使用 [!DNL Marketing Channels] 進行Adobe Advertising報告](/help/integrations/analytics/analytics-reporting-a4adc.md)
-   + [建立Adobe Advertising啟用與報表的 [!DNL Analytics] 設定檔](/help/integrations/analytics/analytics-profiles-a4adc.md)
-   + [使用Adobe Analytics在發起行銷活動前建立分析作業](/help/integrations/analytics/analytics-pre-launch-a4adc.md)
-   + [使用Adobe Analytics建立Adobe Advertising控制面板](/help/integrations/analytics/analytics-dashboards-a4adc.md)
+   + [建立 [!DNL Analytics] 個Adobe Advertising啟用與報告設定檔](/help/integrations/analytics/analytics-profiles-a4adc.md)
+   + [使用Adobe Analytics建立啟動前的行銷活動分析](/help/integrations/analytics/analytics-pre-launch-a4adc.md)
+   + [使用Adobe Analytics建立Adobe Advertising儀表板](/help/integrations/analytics/analytics-dashboards-a4adc.md)
    + [使用Adobe Advertising資料建立 [!DNL Analytics] 自訂量度](/help/integrations/analytics/analytics-custom-metrics-a4adc.md)
 
 <!-- 
 Add to DSP chapter once the videos are complete:
-  + [How to Create a Placement](/help/dsp/placement-create.md)
-  + [Placement Targeting Capabilities](/help/dsp/placement-targeting.md)
-  + [Audience Libraries and Applying Behavioral Targeting](/help/dsp/audience-libraries.md)
+  + [How to create a placement](/help/dsp/placement-create.md)
+  + [Placement targeting capabilities](/help/dsp/placement-targeting.md)
+  + [Audience libraries and applying behavioral targeting](/help/dsp/audience-libraries.md)
 -->
 
 <!-- If I move the "Analytics for Advertising chapter into a larger Integrations chapter, then I'll need to set up redirects by copying a CSV file into this repo and populating it for those legacy file names. -->

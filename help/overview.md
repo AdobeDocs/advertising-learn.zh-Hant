@@ -1,5 +1,5 @@
 ---
-title: Adobe Advertising 教學課程
+title: Adobe Advertising教學課程
 description: Adobe Advertising 的影片和教學課程系列。
 cloud: Experience Cloud
 product: advertising cloud
@@ -17,16 +17,16 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 47f5a750dcff110344414bcae6c914d02ce71730
+source-git-commit: a4ffec7b7fe50a765e0c52b9a0e65db257abf9f9
 workflow-type: tm+mt
-source-wordcount: 64
-ht-degree: 23%
+source-wordcount: 61
+ht-degree: 14%
 
 ---
 
-# Adobe Advertising 教學課程
+# Adobe Advertising教學課程
 
-這些影片教學課程以及[Adobe Advertising檔案](https://experienceleague.adobe.com/zh-hant/docs/advertising)，將協助您以前所未有的速度使用Adobe Advertising來獲得客戶分析和見解。
+這些影片教學課程以及[Adobe Advertising檔案](https://experienceleague.adobe.com/zh-hant/docs/advertising)會說明如何使用Adobe Advertising來獲得更快的客戶深入分析。
 
 視訊可用於：
 
