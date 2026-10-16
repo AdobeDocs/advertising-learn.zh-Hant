@@ -4,6 +4,7 @@ cloud: Experience Cloud
 solution: Advertising
 product_v2:
   - id: a829a185-511f-4bf8-8dcf-9e684f8011cf
+    internal-label: "Advertising"
 usetq: true
 feature-set: Advertising
 landing-page-name: advertising
@@ -13,11 +14,9 @@ git-repo: https://github.com/AdobeDocs/advertising-learn.zh-Hant
 index: true
 source-git-commit: 3246410ba8781e4f57881841d44cbdef1e9e1dc7
 workflow-type: tm+mt
-source-wordcount: 69
+source-wordcount: '64'
 ht-degree: 0%
-
 ---
-
 
 # 內部使用的中繼資料
 
