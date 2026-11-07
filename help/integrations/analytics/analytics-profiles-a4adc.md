@@ -37,4 +37,4 @@ ht-degree: 0%
 
 瞭解如何使用Adobe Analytics為Adobe Advertising再行銷工作，建立網站重新鎖定群組。
 
->[!VIDEO](https://video.tv.adobe.com/v/33503)
+>[!VIDEO](https://video.tv.adobe.com/v/3506675?captions=chi_hant)

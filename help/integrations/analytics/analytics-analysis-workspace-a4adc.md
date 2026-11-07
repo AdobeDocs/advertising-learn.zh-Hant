@@ -35,4 +35,4 @@ ht-degree: 0%
 
 瞭解如何使用Adobe Advertising資料在Adobe Analytics [!DNL Analysis Workspace]中建立視覺化報表。
 
->[!VIDEO](https://video.tv.adobe.com/v/33492)
+>[!VIDEO](https://video.tv.adobe.com/v/3506693?captions=chi_hant)

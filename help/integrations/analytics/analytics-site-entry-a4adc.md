@@ -37,4 +37,4 @@ ht-degree: 0%
 
 瞭解如何建立Adobe Advertising網站專案報告，以監控一週中的某天、一天中的某一時間、瀏覽器和地理影響。
 
->[!VIDEO](https://video.tv.adobe.com/v/33921)
+>[!VIDEO](https://video.tv.adobe.com/v/3506589?captions=chi_hant)
