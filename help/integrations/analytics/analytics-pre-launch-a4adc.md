@@ -37,4 +37,4 @@ ht-degree: 0%
 
 瞭解如何使用Adobe Analytics為啟動Adobe Advertising付費媒體行銷活動做好準備。
 
->[!VIDEO](https://video.tv.adobe.com/v/33501)
+>[!VIDEO](https://video.tv.adobe.com/v/3506457?captions=chi_hant)

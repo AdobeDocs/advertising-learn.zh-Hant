@@ -37,4 +37,4 @@ ht-degree: 0%
 
 瞭解Adobe Advertising檢視和點閱專案資料如何與Adobe Analytics [!DNL Marketing Channels]整合。
 
->[!VIDEO](https://video.tv.adobe.com/v/33502)
+>[!VIDEO](https://video.tv.adobe.com/v/3506656?captions=chi_hant)

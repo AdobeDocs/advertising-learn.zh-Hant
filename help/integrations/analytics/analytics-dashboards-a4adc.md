@@ -34,4 +34,4 @@ ht-degree: 0%
 
 瞭解建立Adobe Advertising控制面板以即時監控行銷活動的技巧。
 
->[!VIDEO](https://video.tv.adobe.com/v/33922)
+>[!VIDEO](https://video.tv.adobe.com/v/3506523?captions=chi_hant)
